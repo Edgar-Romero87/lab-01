@@ -1,16 +1,18 @@
 .efgh{
-  /* background-color: brown; */
+  background-color: brown;
   display: inline-flex;
   margin-left: 0px;
 }
 
 #a{
+  background-color: cadetblue;
   border: 1px solid black;
   height: 75px;
   line-height: 75px;
   /* text-align: center; */
 }
 #b{
+  background-color: cornflowerblue;
   border: 1px solid black;
   height: 150px;
   line-height: 150px;
@@ -18,6 +20,7 @@
 }
 
 #c{
+  background-color: cornsilk;
   border: 1px solid black;
   height: 125px;
   width: 480px;
@@ -26,6 +29,7 @@
 }
 
 #d{
+  background-color: darkgray;
   border: 1px solid black;
   height: 125px;
   width: 480px;
@@ -34,6 +38,7 @@
 }
 
 #i{
+  background-color: darksalmon;
   border: 1px solid black;
   height: 80px;
   width: 480px;
@@ -41,39 +46,46 @@
   /* text-align: center; */
 }
 
-@media only screen and (min-width: 786px){
+@media only screen and (min-width: 768px){
   .efgh{
+    background-color: darkturquoise;
     width: 760px;
   }
   #middle{
     display: flex;
   }
   #a{
+    background-color: rgba(0, 209, 59, 0.694);
     height: 100px;
     line-height: 100px;
     width: 960px;
   }
   #b{
+    background-color: rgba(255, 0, 255, 0.858);
     float: left;
     height: 600px;
     line-height: 600px;
     width: 200px;
   }
   #cd{
+    
     display: flex;
     width: 760px;
   }
   #c{
+    background-color: rgba(255, 217, 0, 0.776);
     height: 200px;
     line-height: 200px;
     width: 380px;
   }
   #d{
+    background-color: rgba(255, 217, 0, 0.454);
     height: 200px;
     line-height: 200px;
     width: 380px;
   }
   #i{
+    background-color: rgba(255, 119, 0, 0.776);
     height: 150px;
     line-height: 150px;
     margin-left: 200px;

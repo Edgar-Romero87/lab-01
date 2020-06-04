@@ -1,20 +1,16 @@
 #a {
-  background-color: blue;
   border: 1px solid black;
   line-height: 75px;
 }
 #b {
-  background-color: peru;
   border: 1px solid black;
   line-height: 150px;
 }
 #c {
-  background-color:purple;
   border: 1px solid black;
   line-height: 125px;
 }
 #d {
-  background-color: brown;
   border: 1px solid black;
   line-height: 125px;
 }
@@ -54,19 +50,19 @@
     line-height: 200px;
   }
   #e{
-    /* line-height: 100px; */
+    
     border: 1px solid black;
   }
   #f{
-    /* line-height: 100px; */
+    
     border: 1px solid black;
   }
   #g{
-    /* line-height: 100px; */
+  
     border: 1px solid black;
   }
   #h{
-    /* line-height: 100px; */
+    
     border: 1px solid black;
   }
   #i{
